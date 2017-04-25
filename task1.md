@@ -21,7 +21,7 @@
 ## Варианты использования
 Диаграмма прецедентов
 
-![use-case](https://github.com/.../UML.png)
+![use-case](DAS_2017_Kushnarenko/2. Chart options of use.png)
 
 
 

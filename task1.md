@@ -21,7 +21,7 @@
 ## Варианты использования
 Диаграмма прецедентов
 
-![use-case](DAS_2017_Kushnarenko/2. Chart options of use.png)
+![use-case](https://github.com/DAS_2017_Kushnarenko/2. Chart options of use.png)
 
 
 
